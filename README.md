@@ -1,10 +1,10 @@
-# WindowsInstallChecklist
+# Windows Setup Checklist
 
 This is a collection of small tasks that I always like to complete when I start fresh on a new Windows installation.
 
 Obviously this is subject to personal taste, but there might be a thing or two you like and forget to do on this list! This list was written with Windows 7+ in mind. Some common setup tasks are skipped because I partially made this while considering my work computer, which has some things already done.
 
-## Common Software
+## Software Checklist
 
 ### General
 
@@ -69,7 +69,9 @@ Obviously this is subject to personal taste, but there might be a thing or two y
 - Origin
 - OBS
 
-## General
+## Task List
+
+### General
 
 Set display and sleep timers
 
@@ -77,7 +79,7 @@ Turn off Sticky Keys (Shiftx5)
 
 Turn off Snap Assist window suggestions
 
-## Start Menu
+### Start Menu
 
 Remove pointless items
 
@@ -85,7 +87,7 @@ Change right-hand items to remove pointless categories
 
 Make default exit selection "Log Off"
 
-## Start Bar
+### Start Bar
 
 Remove pointless items
 
@@ -93,7 +95,7 @@ Add Chrome, Outlook
 
 Make Skype minimize to notification section
 
-## Explorer
+### Explorer
 
 Enable all file extensions
 
@@ -101,7 +103,7 @@ Make hidden files visible
 
 Reverse order/change columns in certain folders
 
-## Chrome
+### Chrome
 
 Log in under personal account
 
@@ -109,21 +111,19 @@ Log in to LastPass
 
 Log in to all accounts using Google Authenticator
 
-## Outlook
+### Outlook
 
 Make "read" occur after one second on a message
 
 Remove pointless bottom-row categories
 
-## Skype
+### Skype
 
 Close to notificiation area
 
-## Sublime Text
+### Sublime Text
 
 Two columns: Alt+Shift+2
 
 Indent Using Spaces
-
-# Personal Software Checklist
 
