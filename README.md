@@ -5,6 +5,10 @@ Obviously this is subject to personal taste, but there might be a thing or two y
 
 ## General
 
+Set display and sleep timers
+
+Install Microsoft Office
+
 Add programs to PATH
 
 - Git
