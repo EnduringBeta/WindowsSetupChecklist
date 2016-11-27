@@ -1,22 +1,81 @@
 # WindowsInstallChecklist
-Collection of small tasks that I always complete when I start fresh on a new Windows installation
 
-Obviously this is subject to personal taste, but there might be a thing or two you like and forget to do on this list! This list was written with Windows 7 in mind, with programs my workplace has installed by default, so some may not translate perfectly.
+This is a collection of small tasks that I always like to complete when I start fresh on a new Windows installation.
+
+Obviously this is subject to personal taste, but there might be a thing or two you like and forget to do on this list! This list was written with Windows 7+ in mind. Some common setup tasks are skipped because I partially made this while considering my work computer, which has some things already done.
+
+## Common Software
+
+### General
+
+- Microsoft Office
+- Motherboard drivers
+- 7-Zip
+- Adobe Reader
+- Java
+- Notepad++
+- Sublime Text (add to PATH)
+- Torrent software
+- Daemon Tools
+
+### Connection
+
+- Killer Wireless Suite
+- Chrome
+- FileZilla
+- Skype
+- Cisco AnyConnect
+
+### Display
+
+- GeForce Experience
+- DivX
+- f.lux
+
+### Device Software
+
+- Printer software
+- Logitech Gaming Software
+- Logitech webcam software
+
+### Programming
+
+- Python 2
+- Python 3
+- Git for Windows (add to PATH)
+- Visual Studio
+- PyCharm
+- Octave
+
+### Image
+
+- VLC
+- K-Lite Codec
+- GIMP
+- IcoFX
+- Handbrake
+
+### Sound
+
+- MediaMonkey
+- iTunes
+- Audacity
+- LAME
+
+### Gaming
+
+- Steam
+- Battle.NET
+- Origin
+- OBS
 
 ## General
 
 Set display and sleep timers
 
-Install Microsoft Office
-
-Add programs to PATH
-
-- Git
-- Sublime
-
 Turn off Sticky Keys (Shiftx5)
 
-(Windows 10) Turn off Snap Assist window suggestions
+Turn off Snap Assist window suggestions
 
 ## Start Menu
 
@@ -65,3 +124,6 @@ Close to notificiation area
 Two columns: Alt+Shift+2
 
 Indent Using Spaces
+
+# Personal Software Checklist
+
