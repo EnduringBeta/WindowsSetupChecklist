@@ -12,6 +12,8 @@ Add programs to PATH
 
 Turn off Sticky Keys (Shiftx5)
 
+(Windows 10) Turn off Snap Assist window suggestions
+
 ## Start Menu
 
 Remove pointless items
