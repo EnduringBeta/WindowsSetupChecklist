@@ -4,7 +4,7 @@ This is a collection of small tasks that I always like to complete when I start 
 
 Obviously this is subject to personal taste, but there might be a thing or two you like and forget to do on this list! This list was written with Windows 7+ in mind. Some common setup tasks are skipped because I partially made this while considering my work computer, which has some things already done.
 
-## Software Checklist
+## Software List
 
 ### General
 
