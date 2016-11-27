@@ -6,37 +6,48 @@ Obviously this is subject to personal taste, but there might be a thing or two y
 --- General
 
 Add programs to PATH
+
 - Git
 - Sublime
+
 Turn off Sticky Keys (Shiftx5)
 
 --- Start Menu
 
 Remove pointless items
+
 Change right-hand items to remove pointless categories
+
 Make default exit selection "Log Off"
 
 --- Start Bar
 
 Remove pointless items
+
 Add Chrome, Outlook
+
 Make Skype minimize to notification section
 
 --- Explorer
 
 Enable all file extensions
+
 Make hidden files visible
+
 Reverse order/change columns in certain folders
 
 --- Chrome
 
 Log in under personal account
+
 Log in to LastPass
+
 Log in to all accounts using Google Authenticator
 
 --- Outlook
 
 Make "read" occur after one second on a message
+
 Remove pointless bottom-row categories
 
 --- Skype
@@ -46,4 +57,5 @@ Close to notificiation area
 --- Sublime Text
 
 Two columns: Alt+Shift+2
+
 Indent Using Spaces
