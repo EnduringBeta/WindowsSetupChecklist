@@ -115,6 +115,8 @@ Log in to all accounts using Google Authenticator
 
 Make "read" occur after one second on a message
 
+Show emails as conversations
+
 Remove pointless bottom-row categories
 
 ### Skype
